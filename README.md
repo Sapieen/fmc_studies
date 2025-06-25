@@ -2,7 +2,7 @@
 
 # Estudos em Física, Matemática e Computação
 
-Este repositório reúne meus estudos e projetos desenvolvidos ao longo da graduação em Física Computacional.
+Este repositório reúne meus estudos e projetos desenvolvidos ao longo da graduação em Física Computacional. 
 
 ## Estrutura
 - **Física**: Mecânica, Eletromagnetismo, Relatividade...
